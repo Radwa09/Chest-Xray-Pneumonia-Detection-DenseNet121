@@ -1,4 +1,4 @@
-#Chest X-ray Pneumonia Detection using DenseNet121 (Deep Learning Project)
+Chest X-ray Pneumonia Detection using DenseNet121 (Deep Learning Project)
 
 This project implements an end-to-end deep learning pipeline for detecting Pneumonia from chest X-ray images using Transfer Learning (DenseNet121), data augmentation, class weighting, fine-tuning, and explainability using GradCAM.
 A full GUI is deployed using Gradio.
